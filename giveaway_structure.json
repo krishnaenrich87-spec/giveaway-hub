@@ -1,0 +1,709 @@
+[
+    {
+        "spoke":  "Assets and Games",
+        "giveaways":  [
+                          {
+                              "name":  "2048-master",
+                              "files":  [
+
+                                        ]
+                          },
+                          {
+                              "name":  "2d-chess-game-main",
+                              "files":  [
+
+                                        ]
+                          },
+                          {
+                              "name":  "Alert1",
+                              "files":  [
+                                            "Assets and Games/Alert1/Alert - Chaender.mp3",
+                                            "Assets and Games/Alert1/music-cover.jpeg"
+                                        ]
+                          },
+                          {
+                              "name":  "Alert2",
+                              "files":  [
+                                            "Assets and Games/Alert2/Alert - DonDuck.wav",
+                                            "Assets and Games/Alert2/music-cover.jpeg"
+                                        ]
+                          },
+                          {
+                              "name":  "Alert3",
+                              "files":  [
+                                            "Assets and Games/Alert3/Alert - Horn-of-gondor.mp3",
+                                            "Assets and Games/Alert3/music-cover.jpeg"
+                                        ]
+                          },
+                          {
+                              "name":  "Alert4",
+                              "files":  [
+                                            "Assets and Games/Alert4/Alert - Party Horn.mp3",
+                                            "Assets and Games/Alert4/music-cover.jpeg"
+                                        ]
+                          },
+                          {
+                              "name":  "Ringtone1",
+                              "files":  [
+                                            "Assets and Games/Ringtone1/Ringtone - Energetic pop - Heart Of Hope.mp3",
+                                            "Assets and Games/Ringtone1/song-cover.jpg"
+                                        ]
+                          },
+                          {
+                              "name":  "Ringtone2",
+                              "files":  [
+                                            "Assets and Games/Ringtone2/Ringtone - Happy Whistling Ukulele.mp3",
+                                            "Assets and Games/Ringtone2/song-cover.jpg"
+                                        ]
+                          },
+                          {
+                              "name":  "Ringtone3",
+                              "files":  [
+                                            "Assets and Games/Ringtone3/Ringtone - Jeeves and Wooster - Theme.mp3",
+                                            "Assets and Games/Ringtone3/song-cover.jpg"
+                                        ]
+                          },
+                          {
+                              "name":  "Ringtone4",
+                              "files":  [
+                                            "Assets and Games/Ringtone4/Ringtone - Message For You.mp3",
+                                            "Assets and Games/Ringtone4/song-cover.jpg"
+                                        ]
+                          },
+                          {
+                              "name":  "Ringtone5",
+                              "files":  [
+                                            "Assets and Games/Ringtone5/Alert-Avant Jazz.mp3",
+                                            "Assets and Games/Ringtone5/music-cover.jpeg"
+                                        ]
+                          },
+                          {
+                              "name":  "Web-Sudoku-Puzzle-Game-master",
+                              "files":  [
+
+                                        ]
+                          }
+                      ]
+    },
+    {
+        "spoke":  "Classics",
+        "giveaways":  [
+                          {
+                              "name":  "A Study in Scarlet",
+                              "files":  [
+                                            "Classics/A Study in Scarlet/A Study in Scarlet - Arthur Conan Doyle.epub",
+                                            "Classics/A Study in Scarlet/A Study in Scarlet - Cover.jpg"
+                                        ]
+                          },
+                          {
+                              "name":  "Anna Karenina",
+                              "files":  [
+                                            "Classics/Anna Karenina/Anna Karenina - Cover.jpg",
+                                            "Classics/Anna Karenina/Anna Karenina - Leo Tolstoy.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "Don Quixote",
+                              "files":  [
+                                            "Classics/Don Quixote/Don Quixote - Cover.jpg",
+                                            "Classics/Don Quixote/Don Quixote - Miguel de Cervantes.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "Dracula",
+                              "files":  [
+                                            "Classics/Dracula/Dracula - Bram Stoker.epub",
+                                            "Classics/Dracula/Dracula - Cover.jpg"
+                                        ]
+                          },
+                          {
+                              "name":  "Gullivers Travels",
+                              "files":  [
+                                            "Classics/Gullivers Travels/Gullivers Travels - Cover.jpg",
+                                            "Classics/Gullivers Travels/Gullivers Travels - Jonathan Swift.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "Little Women",
+                              "files":  [
+                                            "Classics/Little Women/Little Women - Cover.jpg",
+                                            "Classics/Little Women/Little Women - Louisa May Alcott.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "Moby Dick",
+                              "files":  [
+                                            "Classics/Moby Dick/Moby Dick - Cover.jpg",
+                                            "Classics/Moby Dick/Moby Dick - Herman Melville.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "Pride and Prejudice",
+                              "files":  [
+                                            "Classics/Pride and Prejudice/Pride and Prejudice - Cover.jpg",
+                                            "Classics/Pride and Prejudice/Pride and Prejudice - Jane Austen.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "Pygmalion",
+                              "files":  [
+                                            "Classics/Pygmalion/Pygmalion - Cover.jpg",
+                                            "Classics/Pygmalion/Pygmalion - G B Shaw.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "The Admirable Bashville",
+                              "files":  [
+                                            "Classics/The Admirable Bashville/The Admirable Bashville – Cover.jpg",
+                                            "Classics/The Admirable Bashville/The Admirable Bashville – G B Shaw.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "The Adventures of Huckleberry Finn",
+                              "files":  [
+                                            "Classics/The Adventures of Huckleberry Finn/The Adventures of Huckleberry Finn - Cover.jpg",
+                                            "Classics/The Adventures of Huckleberry Finn/The Adventures of Huckleberry Finn - Mark Twain.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "The Merry Wives of Windsor",
+                              "files":  [
+                                            "Classics/The Merry Wives of Windsor/The Merry Wives of Windsor - Cover.jpg",
+                                            "Classics/The Merry Wives of Windsor/The Merry Wives of Windsor - William Shakespear.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "The Picture of Dorian Gray",
+                              "files":  [
+                                            "Classics/The Picture of Dorian Gray/The Picture of Dorian Gray - Cover.jpg",
+                                            "Classics/The Picture of Dorian Gray/The Picture of Dorian Gray - Oscar Wilde.epub"
+                                        ]
+                          }
+                      ]
+    },
+    {
+        "spoke":  "eComics",
+        "giveaways":  [
+                          {
+                              "name":  "Book1",
+                              "files":  [
+                                            "eComics/Book1/Book1-Cover.png",
+                                            "eComics/Book1/Book1.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Book10",
+                              "files":  [
+                                            "eComics/Book10/Book10-Cover.png",
+                                            "eComics/Book10/Book10.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Book11",
+                              "files":  [
+                                            "eComics/Book11/Book11-Cover.png",
+                                            "eComics/Book11/Book11.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Book12",
+                              "files":  [
+                                            "eComics/Book12/Book12-Cover.png",
+                                            "eComics/Book12/Book12.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Book2",
+                              "files":  [
+                                            "eComics/Book2/Book2-Cover.png",
+                                            "eComics/Book2/Book2.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Book3",
+                              "files":  [
+                                            "eComics/Book3/Book3-Cover.png",
+                                            "eComics/Book3/Book3.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Book4",
+                              "files":  [
+                                            "eComics/Book4/Book4-Cover.png",
+                                            "eComics/Book4/Book4.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Book5",
+                              "files":  [
+                                            "eComics/Book5/Book5-Cover.png",
+                                            "eComics/Book5/Book5.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Book6",
+                              "files":  [
+                                            "eComics/Book6/Book6-Cover.png",
+                                            "eComics/Book6/Book6.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Book7",
+                              "files":  [
+                                            "eComics/Book7/Book7-Cover.png",
+                                            "eComics/Book7/Book7.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Book8",
+                              "files":  [
+                                            "eComics/Book8/Book8-Cover.png",
+                                            "eComics/Book8/Book8.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Book9",
+                              "files":  [
+                                            "eComics/Book9/Book9-Cover.png",
+                                            "eComics/Book9/Book9.pdf"
+                                        ]
+                          }
+                      ]
+    },
+    {
+        "spoke":  "Indie",
+        "giveaways":  [
+                          {
+                              "name":  "DrJekyll and MrHyde",
+                              "files":  [
+                                            "Indie/DrJekyll and MrHyde/The Strange Case of DrJekyll and MrHyde -Cover.jpg",
+                                            "Indie/DrJekyll and MrHyde/The Strange Case of DrJekyll and MrHyde -Robert Louis Stevenson.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "Indiscretions of Archie",
+                              "files":  [
+                                            "Indie/Indiscretions of Archie/Indiscretions of Archie - Cover.jpg",
+                                            "Indie/Indiscretions of Archie/Indiscretions of Archie - P. G. Wodehouse.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "Kim",
+                              "files":  [
+                                            "Indie/Kim/Kim - Cover.jpg",
+                                            "Indie/Kim/Kim - Kipling.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "The Importance of Being Earnest",
+                              "files":  [
+                                            "Indie/The Importance of Being Earnest/The Importance of Being Earnest - Oscar Wilde - Cover.jpeg",
+                                            "Indie/The Importance of Being Earnest/The Importance of Being Earnest - Oscar Wilde.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "The life and adventures of robinson crusoe",
+                              "files":  [
+                                            "Indie/The life and adventures of robinson crusoe/The life and adventures of robinson crusoe - Cover.jpg",
+                                            "Indie/The life and adventures of robinson crusoe/The life and adventures of robinson crusoe - Daniel Defoe.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "The Man Who Was Thursday",
+                              "files":  [
+                                            "Indie/The Man Who Was Thursday/The Man Who Was Thursday A Nightmare - Cover.png",
+                                            "Indie/The Man Who Was Thursday/The Man Who Was Thursday A Nightmare - G. K. Chesterton.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "The Mysterious Affair at Styles",
+                              "files":  [
+                                            "Indie/The Mysterious Affair at Styles/The Mysterious Affair at Styles - Agatha Christie.epub",
+                                            "Indie/The Mysterious Affair at Styles/The Mysterious Affair at Styles - Cover.jpg"
+                                        ]
+                          },
+                          {
+                              "name":  "The Sign of the Four",
+                              "files":  [
+                                            "Indie/The Sign of the Four/The Sign of the Four - Arthur Conan Doyle.epub",
+                                            "Indie/The Sign of the Four/The Sign of the Four - Cover.jpeg"
+                                        ]
+                          }
+                      ]
+    },
+    {
+        "spoke":  "Mix",
+        "giveaways":  [
+                          {
+                              "name":  "Alert3",
+                              "files":  [
+                                            "Mix/Alert3/Alert - Horn-of-gondor.mp3",
+                                            "Mix/Alert3/music-cover.jpeg"
+                                        ]
+                          },
+                          {
+                              "name":  "Book1",
+                              "files":  [
+                                            "Mix/Book1/Book1-Cover.png",
+                                            "Mix/Book1/Book1.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Calendar",
+                              "files":  [
+                                            "Mix/Calendar/org.fossify.calendar_10.apk"
+                                        ]
+                          },
+                          {
+                              "name":  "Love Among the Chickens",
+                              "files":  [
+                                            "Mix/Love Among the Chickens/Love Among the Chickens - Cover.jpg",
+                                            "Mix/Love Among the Chickens/Love Among the Chickens - P. G. Wodehouse.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode1-13",
+                              "files":  [
+                                            "Mix/Pepper and Carrot - Episode1-13/Pepper and Carrot - Cover.png",
+                                            "Mix/Pepper and Carrot - Episode1-13/Pepper and Carrot.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Ringtone3",
+                              "files":  [
+                                            "Mix/Ringtone3/Ringtone - Jeeves and Wooster - Theme.mp3",
+                                            "Mix/Ringtone3/song-cover.jpg"
+                                        ]
+                          },
+                          {
+                              "name":  "The Little Warrior",
+                              "files":  [
+                                            "Mix/The Little Warrior/The Little Warrior - Cover.jpg",
+                                            "Mix/The Little Warrior/The Little Warrior - P. G. Wodehouse.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "The Post Office",
+                              "files":  [
+                                            "Mix/The Post Office/The Post Office - Cover.jpg",
+                                            "Mix/The Post Office/The Post Office - Rabindranath Tagore.epub"
+                                        ]
+                          }
+                      ]
+    },
+    {
+        "spoke":  "Pepper and Carrot",
+        "giveaways":  [
+                          {
+                              "name":  "Pepper and Carrot - Episode1-13",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode1-13/Pepper and Carrot - Cover.png",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode1-13/Pepper and Carrot.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode14",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode14/Pepper and Carrot - Episode14 - Cover.jpg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode14/Pepper and Carrot - Episode14.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode15",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode15/Pepper and Carrot - Episode15 - Cover.png",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode15/Pepper and Carrot - Episode15.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode16",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode16/Pepper and Carrot - Episode16 - Cover.jpg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode16/Pepper and Carrot - Episode16.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode17",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode17/Pepper and Carrot - Episode17 - Cover.jpg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode17/Pepper and Carrot - Episode17.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode18",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode18/Pepper and Carrot - Episode18 - Cover.jpg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode18/Pepper and Carrot - Episode18.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode19",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode19/Pepper and Carrot - Episode19 - Cover.jpg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode19/Pepper and Carrot - Episode19.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode20",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode20/Pepper and Carrot - Episode20 - Cover.jpeg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode20/Pepper and Carrot - Episode20.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode21",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode21/Pepper and Carrot - Episode21 - Cover.webp",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode21/Pepper and Carrot - Episode21.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode22",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode22/Pepper and Carrot - Episode22 - Cover.jpg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode22/Pepper and Carrot - Episode22.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode23",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode23/Pepper and Carrot - Episode23 - Cover.jpeg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode23/Pepper and Carrot - Episode23.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode24",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode24/Pepper and Carrot - Episode24 - Cover.jpeg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode24/Pepper and Carrot - Episode24.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode25",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode25/Pepper and Carrot - Episode25 - Cover.jpg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode25/Pepper and Carrot - Episode25.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode26",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode26/Pepper and Carrot - Episode26 - Cover.jpg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode26/Pepper and Carrot - Episode26.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode27",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode27/Pepper and Carrot - Episode27 - Cover.jpeg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode27/Pepper and Carrot - Episode27.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode28",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode28/Pepper and Carrot - Episode28 - Cover.jpeg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode28/Pepper and Carrot - Episode28.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode29",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode29/Pepper and Carrot - Episode29 - Cover.jpg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode29/Pepper and Carrot - Episode29.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode30",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode30/Pepper and Carrot - Episode30 - Cover.jpg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode30/Pepper and Carrot - Episode30.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode31",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode31/Pepper and Carrot - Episode31 - Cover.jpg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode31/Pepper and Carrot - Episode31.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode32",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode32/Pepper and Carrot - Episode32 - Cover.jpeg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode32/Pepper and Carrot - Episode32.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode33",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode33/Pepper and Carrot - Episode33 - Cover.jpeg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode33/Pepper and Carrot - Episode33.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode34",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode34/Pepper and Carrot - Episode34 - Cover.jpg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode34/Pepper and Carrot - Episode34.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode35",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode35/Pepper and Carrot - Episode35 - Cover.jpg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode35/Pepper and Carrot - Episode35.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode36",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode36/Pepper and Carrot - Episode36 - Cover.jpg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode36/Pepper and Carrot - Episode36.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode37",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode37/Pepper and Carrot - Episode37 - Cover.jpeg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode37/Pepper and Carrot - Episode37.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode38",
+                              "files":  [
+                                            "Pepper and Carrot/Pepper and Carrot - Episode38/Pepper and Carrot - Episode38 - Cover.jpeg",
+                                            "Pepper and Carrot/Pepper and Carrot - Episode38/Pepper and Carrot - Episode38.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Pepper and Carrot - Episode39",
+                              "files":  [
+
+                                        ]
+                          }
+                      ]
+    },
+    {
+        "spoke":  "Productivity",
+        "giveaways":  [
+                          {
+                              "name":  "Bound By Law",
+                              "files":  [
+                                            "Productivity/Bound By Law/Bound By Law - Duke University.pdf",
+                                            "Productivity/Bound By Law/boundbylaw_hi-res_large.jpg"
+                                        ]
+                          },
+                          {
+                              "name":  "James Allen",
+                              "files":  [
+                                            "Productivity/James Allen/Collected Works - James Allen - Cover.jpeg",
+                                            "Productivity/James Allen/Collected Works - James Allen.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "PCBs Here There Everywhere",
+                              "files":  [
+                                            "Productivity/PCBs Here There Everywhere/PCBs Here, There, and Everywhere - Iowa University - Cover.jpeg",
+                                            "Productivity/PCBs Here There Everywhere/PCBs Here, There, and Everywhere - Iowa University.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "The Art of War",
+                              "files":  [
+                                            "Productivity/The Art of War/The Art of War - B C Sunzi.epub",
+                                            "Productivity/The Art of War/The Art of War - Cover.jpg"
+                                        ]
+                          },
+                          {
+                              "name":  "The Autobiography of Benjamin Franklin",
+                              "files":  [
+                                            "Productivity/The Autobiography of Benjamin Franklin/The Autobiography of Benjamin Franklin - Benjamin Franklin - Cover.jpg",
+                                            "Productivity/The Autobiography of Benjamin Franklin/The Autobiography of Benjamin Franklin - Benjamin Franklin.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "The Life of Samuel Johnson",
+                              "files":  [
+                                            "Productivity/The Life of Samuel Johnson/The Life of Samuel Johnson - James Boswell - Cover.jpg",
+                                            "Productivity/The Life of Samuel Johnson/The Life of Samuel Johnson - James Boswell.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "The Science of Getting Rich",
+                              "files":  [
+                                            "Productivity/The Science of Getting Rich/The Science of Getting Rich - W. D. Wattles - Cover.jpg",
+                                            "Productivity/The Science of Getting Rich/The Science of Getting Rich - W. D. Wattles.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "The Story of My Experiments With Truth",
+                              "files":  [
+                                            "Productivity/The Story of My Experiments With Truth/The Story of My Experiments With Truth - Mahatma Gandhi - Cover.jpg",
+                                            "Productivity/The Story of My Experiments With Truth/The Story of My Experiments With Truth - Mahatma Gandhi.epub"
+                                        ]
+                          },
+                          {
+                              "name":  "Theft",
+                              "files":  [
+                                            "Productivity/Theft/Theft - Duke University - Cover.jpeg",
+                                            "Productivity/Theft/Theft - Duke University.pdf"
+                                        ]
+                          },
+                          {
+                              "name":  "Think and Grow Rich",
+                              "files":  [
+                                            "Productivity/Think and Grow Rich/Think and Grow Rich - Napoleon Hill - Cover.jpg",
+                                            "Productivity/Think and Grow Rich/Think and Grow Rich - Napoleon Hill.epub"
+                                        ]
+                          }
+                      ]
+    },
+    {
+        "spoke":  "Tech",
+        "giveaways":  [
+                          {
+                              "name":  "Activity",
+                              "files":  [
+                                            "Tech/Activity/org.secuso.privacyfriendlyactivitytracker_17.apk"
+                                        ]
+                          },
+                          {
+                              "name":  "Calendar",
+                              "files":  [
+                                            "Tech/Calendar/org.fossify.calendar_10.apk"
+                                        ]
+                          },
+                          {
+                              "name":  "Health",
+                              "files":  [
+                                            "Tech/Health/com.health.openscale_65.apk"
+                                        ]
+                          },
+                          {
+                              "name":  "Light",
+                              "files":  [
+                                            "Tech/Light/com.pocket_plan.j7_003_43.apk"
+                                        ]
+                          },
+                          {
+                              "name":  "Mobile tools",
+                              "files":  [
+                                            "Tech/Mobile tools/com.simplemobiletools.calendar.pro_6.21.0-226_minAPI23(nodpi)_apkmirror.com.apk"
+                                        ]
+                          },
+                          {
+                              "name":  "Notes",
+                              "files":  [
+                                            "Tech/Notes/net.basov.omn.fdroid_3400.apk"
+                                        ]
+                          },
+                          {
+                              "name":  "Plan",
+                              "files":  [
+                                            "Tech/Plan/com.lightplanx.xddk_2.apk"
+                                        ]
+                          }
+                      ]
+    }
+]
